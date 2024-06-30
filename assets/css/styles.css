@@ -161,9 +161,9 @@ img {
 }
 
 .chakra-img {
-  margin: 0px 0px 28px 0px;
-  max-width: 76%;
-  width: 100px;
+    margin: 0px 0px 85px 0px;
+    max-width: 62%;
+    width: 94px;
   animation: rotate 4s linear infinite;  
 }
 
