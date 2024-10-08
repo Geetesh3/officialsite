@@ -175,6 +175,7 @@ img {vertical-align: middle;}
   max-width: 640px;
   position: relative;
   margin: auto;
+  background-image: url(/assets/img/Rectangle-Golden-Frame-Border-Transparent-PNG.png);
 }
 
 /* Next & previous buttons */
@@ -506,6 +507,10 @@ img {vertical-align: middle;}
   font-size: var(--normal-font-size);
   cursor: pointer;
   margin-left: auto;
+}
+/* Certificates */
+.bg_image_for_certi{
+
 }
 
 /* ===== FOOTER =====*/
