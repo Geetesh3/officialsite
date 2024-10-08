@@ -175,7 +175,7 @@ img {vertical-align: middle;}
   max-width: 640px;
   position: relative;
   margin: auto;
-  background-image: url(/assets/img/Rectangle-Golden-Frame-Border-Transparent-PNG.png);
+/*   background-image: url(/assets/img/Rectangle-Golden-Frame-Border-Transparent-PNG.png); */
 }
 
 /* Next & previous buttons */
